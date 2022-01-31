@@ -1,11 +1,16 @@
 #Weekly Individual Project Update Report
+
 ##Group number: L3w-G4
+
 ##Student name: Alexandre Janelle-Goode
+
 ##Week: week 3 -> Jan 24-30
-###How many hours did you spend on the project this week? (0-10)
-1. Brainstorming, 3 hours
 
 ---
+
+###How many hours did you spend on the project this week? (0-10)
+
+1. Brainstorming, 3 hours
 
 ***Give rough breakdown of hours spent on 1-3 of the following:* (meetings, information gathering, design, research, brainstorming, evaluating options, prototyping options, writing/documenting, refactoring, testing, software implementation, hardware implementation)***
 
