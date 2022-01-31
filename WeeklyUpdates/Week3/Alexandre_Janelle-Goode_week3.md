@@ -1,14 +1,14 @@
-#Weekly Individual Project Update Report
+# Weekly Individual Project Update Report
 
-##Group number: L3w-G4
+## Group number: L3w-G4
 
-##Student name: Alexandre Janelle-Goode
+## Student name: Alexandre Janelle-Goode
 
-##Week: week 3 -> Jan 24-30
+## Week: week 3 -> Jan 24-30
 
 ---
 
-###How many hours did you spend on the project this week? (0-10)
+***How many hours did you spend on the project this week? (0-10)***
 
 1. Brainstorming, 3 hours
 
